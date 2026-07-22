@@ -25,6 +25,8 @@ O objetivo é desenvolver habilidades para consultar, validar e investigar dados
 - SQLTools
 - Git
 - GitHub
+- MySQL
+- Orange
 
 ---
 
