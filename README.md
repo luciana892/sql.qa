@@ -1,34 +1,34 @@
-# SQL QA Practice
+# SQL para QA
 
-## About
+## 📖 Sobre o projeto
 
-This repository contains my SQL practice project focused on Quality Assurance (QA).
+Este repositório reúne meus estudos de SQL com foco em Quality Assurance (QA).
 
-The goal is to improve my SQL skills by creating queries used in real-world QA scenarios, such as validating data, investigating bugs, and verifying database consistency.
-
----
-
-## Objectives
-
-- Learn SQL fundamentals
-- Practice database queries
-- Simulate QA validation scenarios
-- Investigate data-related issues
-- Build a professional SQL portfolio
+O objetivo é desenvolver habilidades para consultar, validar e investigar dados em bancos de dados, simulando situações encontradas no dia a dia de um Analista de QA.
 
 ---
 
-## Technologies
+## 🎯 Objetivos
+
+- Aprender os principais comandos SQL.
+- Praticar consultas em banco de dados.
+- Simular cenários reais de validação.
+- Investigar inconsistências e possíveis bugs.
+- Construir um portfólio de SQL para QA.
+
+---
+
+## 🛠️ Ferramentas utilizadas
 
 - Visual Studio Code
-- SQLite (Chinook Database)
-- SQLTools Extension
+- SQLite (Banco Chinook)
+- SQLTools
 - Git
 - GitHub
 
 ---
 
-## SQL Topics
+## 📚 Conteúdos estudados
 
 - SELECT
 - WHERE
@@ -48,9 +48,9 @@ The goal is to improve my SQL skills by creating queries used in real-world QA s
 
 ---
 
-## Project Structure
+## 📁 Estrutura do projeto
 
-```
+```text
 sql-qa-practice/
 │
 ├── README.md
@@ -58,18 +58,19 @@ sql-qa-practice/
 │   ├── 01_SELECT.sql
 │   ├── 02_WHERE.sql
 │   ├── 03_AND_OR.sql
+│   ├── 04_LIKE.sql
 │   └── ...
 └── database/
 ```
 
 ---
 
-## Purpose
+## 🚀 Objetivo do repositório
 
-This project documents my SQL learning journey for QA and demonstrates practical database querying skills using the Chinook sample database.
+Este projeto tem como finalidade documentar minha evolução em SQL aplicado à área de QA, reunindo exercícios, consultas e exemplos práticos que simulam atividades realizadas por Analistas de Testes e Qualidade de Software.
 
 ---
 
-## Author
+## 👩‍💻 Autora
 
-Luciana
+**Luciana**
